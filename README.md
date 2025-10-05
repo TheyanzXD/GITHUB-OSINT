@@ -12,6 +12,8 @@ python GITHUB-OSINT.py
 ```
 
 ## PREVIEW
+<h1 align="center"><code>OSINT</code></h1> <p align="center"> <img src="ss.jpg" width="590"><br><br>
+
 
 
 ## © <a href="https://github//yanz-iyyo">the coder</a>
