@@ -1,5 +1,6 @@
 ## GITHUB-OSINT
 Python github Osint Free
+From Base ig-osint dan red-osint
 ## cara run
 ```
 pkg update && pkg upgrade
