@@ -2,6 +2,7 @@
 <h4>Python github Osint Free</h4>
 <h4>From Base ig-osint dan red-osint</h4>
 ## cara run
+
 ```
 pkg update && pkg upgrade
 pkg install git
